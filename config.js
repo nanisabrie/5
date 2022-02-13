@@ -49,8 +49,8 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = 'X - RyuuZeyy' // ganti aja
-var sticker_author = '' // ganti aja
+var sticker_name = 'X - Sabrie' // ganti aja
+var sticker_author = 'Sabrie' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -79,19 +79,19 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
-gc1 = 'https://chat.whatsapp.com/FJkbQjpewltErmQRwzC9rj'
-gc2 = 'https://chat.whatsapp.com/HTcmEqjQeu1GMN2xN210QJ'
-gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
+gc1 = ''
+gc2 = ''
+gc3 = ''
 namaig = ''
 linkf = gc1
 linkff = namaig
 namabot = 'SabrieBotz'
 namagithub = ''
 gcid = '972502255007-1406453544'
-footer = 'ChokiBot'
+footer = 'SabrieBotz'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu kejap...'
-bc = 'Choki'
+bc = 'Sabrie'
 titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'
 body = run
 kasihcaption = `©${namaig}\n\n©${namagithub}`
