@@ -1,22 +1,14 @@
 let handler = async m => m.reply(`
-╭─「 Donasi • Pulsa 」
+╭─「 Donasi • touch and go ewallet 」
 │ • three
-│ • 0896-7776-3976
+│ • 1161739141
 ╰────
 
-╭─「 Donasi • Bank Virtual 」
-│ • OVO
-│ • 0896-7776-3976
-│ • DANA
-│ • 0896-7776-3976
-│ • GOPAY
-│ • 0896-7776-3976
+╭─「 Donasi • touch and go ewallet  」
+│ No tng 
+│ 1161739141
 ╰────
 
-╭─「 Donasi • Website 」
-│ • https://saweria.co/Rey404
-│ • https://trakteer.id/Rey404
-╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
