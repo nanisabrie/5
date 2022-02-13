@@ -4,10 +4,6 @@ let handler = async m => m.reply(`
 │ • 1161739141
 ╰────
 
-╭─「 Donasi • touch and go ewallet  」
-│ No tng 
-│ 1161739141
-╰────
 
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
