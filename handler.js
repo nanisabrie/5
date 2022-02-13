@@ -393,7 +393,7 @@ Untuk mematikan fitur ini, ketik
           return
         break
     }
-    await this.sendMessage(from, 'Maaf, karena anda menelfon bot. anda diblokir otomatis', MessageType.extendedText)
+    await this.sendMessage(from, 'Maaf, karena and call bot. anda diblock automatik', MessageType.extendedText)
     await this.blockUser(from, 'add')
   }
 }
